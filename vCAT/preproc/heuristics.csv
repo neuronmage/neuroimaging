@@ -1,0 +1,13 @@
+﻿init_name,dest_name
+T1w,anat/sub-{0}_T1w
+ROI_loc_1,func/sub-{0}_task-ROI_loc-01
+ROI_loc_2,func/sub-{0}_task-ROI_loc-02
+Study_1,func/sub-{0}_task-study_run-01
+Study_2,func/sub-{0}_task-study_run-02
+Study_3,func/sub-{0}_task-study_run-03
+Study_4,func/sub-{0}_task-study_run-04
+fMRI_DistortionMap_AP,fmap/sub-{0}_func_dir-AP
+fMRI_DistortionMap_PA,fmap/sub-{0}_func_dir-PA
+dMRI_DistortionMap_AP,fmap/sub-{0}_dwi_dir-AP
+dMRI_DistortionMap_PA,fmap/sub-{0}_dwi_dir-PA
+dMRI_AP,dwi/sub-{0}_dwi
