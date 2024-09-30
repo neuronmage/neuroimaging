@@ -1,0 +1,2 @@
+#!/bin/bash
+python /home/data/madlab/scripts/wmaze/anal_MR_thesis/fixed_before_conditional/model4/wmaze_lvl1_modelLSS_atm12292017.py -s WMAZE_001 -o /home/data/madlab/data/mri/wmaze/frstlvl/wmaze_MRthesis/fixed_before_conditional/modelLSS -w /scratch/madlab/wmaze/fixed_before_conditional/modelLSS/lvl1
