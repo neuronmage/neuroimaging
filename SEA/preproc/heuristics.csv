@@ -1,0 +1,9 @@
+init_name,dest_name
+T1w,anat/sub-{0}_T1w
+T2w,anat/sub-{0}_T2w
+t2_tse,anat/sub-{0}_T2-tse
+pd,anat/sub-{0}_PD
+dMRI_DistortionMap_AP,fmap/sub-{0}_dwi_dir-AP
+dMRI_DistortionMap_PA,fmap/sub-{0}_dwi_dir-PA
+dMRI,dwi/sub-{0}_dwi
+dMRI_PA,dwi/sub-{0}_dwi-PA
